@@ -1,3 +1,0 @@
-C:/Users/arthu/OneDrive/Documentos/Arthur/c++ projects/teste_cmake/build/CMakeFiles/MyProject.dir
-C:/Users/arthu/OneDrive/Documentos/Arthur/c++ projects/teste_cmake/build/CMakeFiles/edit_cache.dir
-C:/Users/arthu/OneDrive/Documentos/Arthur/c++ projects/teste_cmake/build/CMakeFiles/rebuild_cache.dir

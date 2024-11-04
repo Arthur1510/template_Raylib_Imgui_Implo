@@ -1,0 +1,13 @@
+requisitos
+#instalar o cmake 
+#instalar o ninja
+#colocar o ninja.exe nas variáveis de ambiente 
+
+
+via Devoloper Command Prompt for VS 2022
+no diretório raiz 
+rm -rf build //se a pasta build estiver presente
+mkdir build
+cd build
+cmake -G "Ninja" ..
+ninja
