@@ -14,7 +14,6 @@ include_directories(lib/rlImGui)
 # Arquivos fonte
 set(SOURCES
     src/main.cpp
-    src/window.cpp
     src/poligono.cpp
 )
 
